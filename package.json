@@ -1,0 +1,27 @@
+{
+  "name": "node-and-stripe-payments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frenky14/Node-Stripe-payments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frenky14/Node-Stripe-payments/issues"
+  },
+  "homepage": "https://github.com/Frenky14/Node-Stripe-payments#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "stripe": "^8.69.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
